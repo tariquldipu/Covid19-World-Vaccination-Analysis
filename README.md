@@ -7,4 +7,4 @@ In this Jupyter IPython Notebook, I have tried to analyze Covid-19 vaccination a
 #pyhton #covid-19 #data_visualization #data_analysis #worldmap_data_analysis
 
 
-![Covid Vaccination World Map](abcd.com)
+![Covid Vaccination World Map](https://github.com/tariquldipu/Covid19-World-Vaccination-Analysis/blob/main/covid19_vaccines_country.png)
